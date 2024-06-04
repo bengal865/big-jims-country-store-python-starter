@@ -40,7 +40,6 @@
 
 ## Sample Output
 
-Your output should look similar to the example below:
 ![Sample output](big-jims-store-output.png)
 
 ## Directions
