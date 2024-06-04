@@ -36,7 +36,7 @@
 ```python
 # Abraham Lincoln
 # 21 APR 20XX
-# Intro to Python Variables
+# Big Jim's Country Store
 ```
 
 - Use correct spelling and grammar
