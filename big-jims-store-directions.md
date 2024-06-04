@@ -3,6 +3,7 @@
 ## Overview:
 
 *Write and test a Python script that:*
+> - import the Python **time** module to add a 2-second delay to the script (before Python displays the grand total)
 > - welcomes the user by name to the store
 > - briefly explains to the user what the script will do
 > - uses the `input()` function to prompt the user to enter the prices of five (5) items 
@@ -19,6 +20,7 @@
 
 ## Resources:
 
+- [Adding a delay to your Python script](https://www.guru99.com/python-time-sleep-delay.html)
 - [Currency formatting example](https://www.w3schools.com/python/trypython.asp?filename=demo_fstring_modifier)
 - [Converting string input to floats](https://www.digitalocean.com/community/tutorials/python-convert-string-to-float)
 
