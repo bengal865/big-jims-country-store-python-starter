@@ -2,7 +2,7 @@
 
 ## Overview:
 
-*You'll write a Python script that:*
+*Write and test a Python script that:*
 > - welcomes the user by name to the store
 > - briefly explains to the user what the script will do
 > - uses the `input()` function to prompt the user to enter the prices of five (5) items 
