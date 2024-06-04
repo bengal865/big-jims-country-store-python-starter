@@ -17,6 +17,16 @@
 
 > Save your files to a GitHub repo named: ***big-jims-country-store***
 
+## Resources:
+
+- [Currency formatting example](https://www.w3schools.com/python/trypython.asp?filename=demo_fstring_modifier)
+- [Converting string input to floats](https://www.digitalocean.com/community/tutorials/python-convert-string-to-float)
+
+
+## Sample Output
+
+![Sample output](big-jims-store-output.png)
+
 ## General Requirements
 
 - Add a comment block to the top of your script
@@ -31,19 +41,3 @@
 - Sprinkle short, ***meaningful*** comments throughout your code
 - Use short, descriptive file names
 - Use lowercase when naming files
-
-## Resources:
-
-- [Currency formatting example](https://www.w3schools.com/python/trypython.asp?filename=demo_fstring_modifier)
-- [Converting string input to floats](https://www.digitalocean.com/community/tutorials/python-convert-string-to-float)
-
-
-## Sample Output
-
-![Sample output](big-jims-store-output.png)
-
-## Directions
-
-    - Step 1
-    - Step 2
-    - Step 3
