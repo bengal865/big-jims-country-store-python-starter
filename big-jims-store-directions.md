@@ -41,7 +41,8 @@
 ## Sample Output
 
 Your output should look similar to the example below:
-![Big Jim's Country Store output](big-jims-store-output.png)
+![Big Jim's Country Store output]
+(big-jims-store-output.png)
 
 ## Directions
 
