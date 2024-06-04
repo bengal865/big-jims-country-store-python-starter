@@ -15,7 +15,7 @@
 
 ## Submitting Your Work:
 
-> Save your files to a GitHub repo named: ***big-jims-store***
+> Save your files to a GitHub repo named: ***big-jims-country-store***
 
 ## General Requirements
 
