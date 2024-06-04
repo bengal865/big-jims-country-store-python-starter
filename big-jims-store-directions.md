@@ -9,7 +9,7 @@
 > - uses the `input()` function to prompt the user to enter the prices of five (5) items 
 > - uses the `float()` function to convert the user's input to floats (numbers with a decimal point)
 > - calculates and displays the **subtotal** (before taxes)
-> - uses a **constant** of 6.00% for the Michigan sales tax rate
+> - uses a **constant** of 6.00% for the Michigan sales tax rate (HINT: Write the tax rate as a decimal)
 > - calculates and displays the **sales tax** for the order
 > - calculates and displays in currency format the **grand total**
 > - thanks the user for shopping at Big Jim's Country Store
